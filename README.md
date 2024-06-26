@@ -5,7 +5,7 @@
  More detailed information on the construction of the individual objects in the scene can be read in the CG_Assignment_2_Report.pdf file.  
 
 ## How to build:
-In the root directory (CG_assignment_2_20205377)  
+In the root directory:
 run:  
 cmake CMakeLists.txt  
 make  
